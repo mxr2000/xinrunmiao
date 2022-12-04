@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xinrunmiao/static/css/main.073c9b0a.css",
+    "main.js": "/xinrunmiao/static/js/main.5ea85e44.js",
+    "static/js/787.b0ddcc93.chunk.js": "/xinrunmiao/static/js/787.b0ddcc93.chunk.js",
+    "static/media/logo.svg": "/xinrunmiao/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/xinrunmiao/index.html",
+    "main.073c9b0a.css.map": "/xinrunmiao/static/css/main.073c9b0a.css.map",
+    "main.5ea85e44.js.map": "/xinrunmiao/static/js/main.5ea85e44.js.map",
+    "787.b0ddcc93.chunk.js.map": "/xinrunmiao/static/js/787.b0ddcc93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ea85e44.js"
+  ]
+}
